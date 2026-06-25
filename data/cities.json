@@ -1,0 +1,55 @@
+{
+  "cities": [
+    {
+      "cityName": "Alexandria",
+      "country": "Egypt",
+      "imgUrl": "https://cdn-icons-png.flaticon.com/128/197/197558.png",
+      "date": "2026-02-12T09:24:11.863Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 31.2001,
+        "lng": 29.9187
+      },
+      "id": "76657657"
+    },
+    {
+      "cityName": "Sohag",
+      "country": "Egypt",
+      "imgUrl": "https://cdn-icons-png.flaticon.com/128/197/197558.png",
+      "date": "2026-10-31T15:59:59.138Z",
+      "notes": "Really this city is amazing",
+      "position": {
+        "lat": 26.5569,
+        "lng": 31.6948
+      },
+      "id": "74576465"
+    },
+    {
+      "cityName": "Gaza",
+      "country": "Palestine",
+      "imgUrl": "https://cdn-icons-png.flaticon.com/512/197/197467.png",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "City in the Gaza Strip",
+      "position": {
+        "lat": 31.5017,
+        "lng": 34.4668
+      },
+      "id": "574745765"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "imgUrl": "https://cdn-icons-png.flaticon.com/128/197/197593.png",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "I love Real Madrid So..",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    }
+
+  
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

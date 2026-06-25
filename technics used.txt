@@ -1,0 +1,6 @@
+- React router (Regular way)
+- Context Api 
+- Real Geo location uses
+- Use react leaflet library
+- Lazy import with susbens
+- Use real Api
